@@ -18,8 +18,5 @@ docker compose up
 A aplicação sobe em:
 http://localhost:8000
 
-## 📌 Próximos passos
-- [ ] Healthcheck
-- [ ] Métricas com Prometheus
-- [ ] Grafana
-- [ ] Logging estruturado
+## 📊 Grafana Dashboard
+<img width="1590" height="604" alt="image" src="https://github.com/user-attachments/assets/e6d7fcd5-767d-4400-b02d-1bc28c9bc955" />
