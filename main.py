@@ -19,6 +19,10 @@ vendas = {
 
 print("ARQUIVO MAIN CARREGADO")
 
+@app.get("/")
+async def root():
+    return {"message": "Hello World"}
+
 @app.get("/vendas/{venda_id}")
 def get_venda(venda_id: int):  
     venda = vendas.get(venda_id)
