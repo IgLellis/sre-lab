@@ -6,6 +6,8 @@ Projeto criado para estudo de práticas DevOps e SRE.
 - FastAPI
 - Docker
 - Docker Compose
+- Grafana
+- Prometheus
 
 ## 📦 Como rodar localmente
 
